@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EFC93479-42BD-0DE9-558F-B3BE0A51A935}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestCook",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
